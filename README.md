@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm ThantZin</h1>
+<h3 align="center">Developer | Learning & Building Projects</h3>
 
-<!--
-**tzt-49/tzt-49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🌍 Based in Thailand
+- 💻 Interested in Programming & Technology
+- 🌱 Currently learning: Web Development
+- 🚀 Goal: Become a skilled developer
+- 📫 Reach me: your-email@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tzt-49&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=tzt-49&theme=tokyonight)
+
+---
+
+### 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tzt-49&layout=compact&theme=tokyonight)
+
+---
+
+⭐️ From [tzt-49](https://github.com/tzt-49)
