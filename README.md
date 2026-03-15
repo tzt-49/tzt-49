@@ -37,8 +37,6 @@ Currently looking for **Junior Software Developer / Backend Developer opportunit
 ### Tools
 - Git
 - GitHub
-- VS Code
-- Linux
 
 ---
 
