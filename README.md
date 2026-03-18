@@ -12,8 +12,6 @@ I am an aspiring software developer with a strong foundation in computer science
 
 I enjoy building backend systems and modern web applications using Java Spring Framework and JavaScript technologies.
 
-Currently looking for **Junior Software Developer / Backend Developer opportunities in Thailand.**
-
 ---
 
 ## 🛠 Tech Stack
