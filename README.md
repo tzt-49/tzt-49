@@ -40,7 +40,7 @@ Currently looking for **Junior Software Developer / Backend Developer opportunit
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
@@ -58,6 +58,13 @@ Issued: July 2025
 - Spring Boot Advanced Development
 - System Design Fundamentals
 - Cloud & Docker
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=tzt-49&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tzt-49&layout=compact&theme=tokyonight)
 
 ---
 
