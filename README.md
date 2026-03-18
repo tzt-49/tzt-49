@@ -17,7 +17,7 @@ I enjoy building backend systems and modern web applications using Java Spring F
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,html,css,js,flutter,postgres,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,html,css,js,flutter,postgres,git,github" />
 </p>
 
 ---
