@@ -16,29 +16,32 @@ Currently looking for **Junior Software Developer / Backend Developer opportunit
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Backend
-- Java
-- Spring Framework
-- REST API Development
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
 ### Frontend
-- React.js
-- TypeScript
-- HTML / CSS / JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,html,css,js" />
+</p>
 
 ### Mobile
-- Flutter
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</p>
 
 ### Database
-- PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Linux
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
