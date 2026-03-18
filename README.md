@@ -1,6 +1,6 @@
 # Hi 👋 I'm Thant Zin Tun
 
-💻 Entry-Level Software Developer | FE (ITPEC) Certified  
+💻 Junior Software Developer | FE (ITPEC) Certified  
 🌏 Based in Thailand / Myanmar  
 🚀 Passionate about Backend Development and Modern Web Applications
 
